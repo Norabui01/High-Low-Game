@@ -5,9 +5,8 @@
 simple and short that everyone can do it easily with the basic learning. However, my professor required 
 3D drawing dice's face corresponding to each user or computer's roll in "horizontal" for extra credits!</h3>
 
-I was excited to do that extra part though. Because she required us can just apply the basic learning of 
-Java to make the program(no methods), the code seems kind of long. I was suprised that i was the only 
-student in my class could do the extra part<^-^>.
+Because she required us can just apply the basic learning of Java to make the program(no methods), 
+the code seems kind of long. I was suprised that i was the only student in my class could do the extra part<^-^>.
 
 It will be very simple if the 3D drawing can be placed vertically. We can just draw each dice by string and 
 print them out.
