@@ -1,9 +1,8 @@
 # Introduction to my High-Low-Game
 
 
-<html><h3>This is one of my first Java project in my first Java class runs on console. The game is very
-simple and short that everyone can do it easily with the basic learning. However, my professor required 
-3D drawing dice's face corresponding to each user or computer's roll in "horizontal" for extra credits!</h3>
+<html><h3>The game is very
+simple and short that everyone can do it easily with the basic learning.</h3>
 
 Because she required us can just apply the basic learning of Java to make the program(no methods), 
 the code seems kind of long. I was suprised that i was the only student in my class could do the extra part<^-^>.
